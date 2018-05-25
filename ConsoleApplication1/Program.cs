@@ -23,6 +23,7 @@ namespace ConsoleApplication1
             Journal good3 = new Journal(journal_Sale, "Наука", 150, new DateTime(15 / 02 / 2018));
             Journal good4 = new Journal(journal_Sale, "Вестник", 140, new DateTime(17 / 03 / 2018));
             Genre good5 = new Genre(book_Sale, "Десять негритят", 150, "Агата Кристи", "Э", genre_Sale);
+            Book good6 = new Book(book_Sale, "Бойцовский клуб", 200, "Паланик", "Роман", "Э");
 
             List<Good> ListGood = new List<Good>();
             ListGood.Add(good1);
@@ -30,6 +31,7 @@ namespace ConsoleApplication1
             ListGood.Add(good5);
             ListGood.Add(good3);
             ListGood.Add(good4);
+            ListGood.Add(good6);
 
             // массив для сериализации:
             Good[] good = new Good[] { good1, good2, good3, good4, good5 };
