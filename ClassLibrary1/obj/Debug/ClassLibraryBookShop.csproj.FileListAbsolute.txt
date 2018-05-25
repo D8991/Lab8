@@ -1,0 +1,8 @@
+H:\Программирование\Лабы\ClassLibrary\ClassLibrary1\obj\Debug\ClassLibraryBookShop.csprojResolveAssemblyReference.cache
+H:\Программирование\Лабы\ClassLibrary\ClassLibrary1\obj\Debug\ClassLibraryBookShop.dll
+H:\Программирование\Лабы\ClassLibrary\ClassLibrary1\obj\Debug\ClassLibraryBookShop.pdb
+F:\Программирование\Лабы\8Lab\ClassLibrary1\bin\Debug\ClassLibraryBookShop.dll
+F:\Программирование\Лабы\8Lab\ClassLibrary1\bin\Debug\ClassLibraryBookShop.pdb
+F:\Программирование\Лабы\8Lab\ClassLibrary1\obj\Debug\ClassLibraryBookShop.csprojResolveAssemblyReference.cache
+F:\Программирование\Лабы\8Lab\ClassLibrary1\obj\Debug\ClassLibraryBookShop.dll
+F:\Программирование\Лабы\8Lab\ClassLibrary1\obj\Debug\ClassLibraryBookShop.pdb

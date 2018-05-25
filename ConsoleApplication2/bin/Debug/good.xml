@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<ArrayOfGood xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Good xsi:type="Book">
+    <Good_Name>
+      <Good_Name>Книга</Good_Name>
+    </Good_Name>
+    <Book_Title>Преступление и наказание</Book_Title>
+    <Price>250</Price>
+    <Book_Author>Достоевский</Book_Author>
+    <Book_Genre>Роман</Book_Genre>
+    <Book_Publisher>Э</Book_Publisher>
+  </Good>
+  <Good xsi:type="Book">
+    <Good_Name>
+      <Good_Name>Книга</Good_Name>
+    </Good_Name>
+    <Book_Title>Мастер и маргарита</Book_Title>
+    <Price>300</Price>
+    <Book_Author>Булгаков</Book_Author>
+    <Book_Genre>Роман</Book_Genre>
+    <Book_Publisher>Эксмо</Book_Publisher>
+  </Good>
+  <Good xsi:type="Genre">
+    <Good_Name>
+      <Good_Name>Книга</Good_Name>
+    </Good_Name>
+    <Book_Title>Десять негритят</Book_Title>
+    <Price>150</Price>
+    <Book_Author>Агата Кристи</Book_Author>
+    <Book_Publisher>Э</Book_Publisher>
+  </Good>
+  <Good xsi:type="Journal">
+    <Good_Name>
+      <Good_Name>Журнал</Good_Name>
+    </Good_Name>
+    <Book_Title>Наука</Book_Title>
+    <Price>150</Price>
+    <DataOfPublic>0001-01-01T00:00:00</DataOfPublic>
+  </Good>
+  <Good xsi:type="Journal">
+    <Good_Name>
+      <Good_Name>Журнал</Good_Name>
+    </Good_Name>
+    <Book_Title>Вестник</Book_Title>
+    <Price>140</Price>
+    <DataOfPublic>0001-01-01T00:00:00</DataOfPublic>
+  </Good>
+</ArrayOfGood>

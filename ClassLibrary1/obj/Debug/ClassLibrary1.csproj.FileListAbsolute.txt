@@ -1,0 +1,5 @@
+H:\Программирование\Лабы\ClassLibrary\ClassLibrary1\bin\Debug\ClassLibraryBookShop.dll
+H:\Программирование\Лабы\ClassLibrary\ClassLibrary1\bin\Debug\ClassLibraryBookShop.pdb
+H:\Программирование\Лабы\ClassLibrary\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+H:\Программирование\Лабы\ClassLibrary\ClassLibrary1\obj\Debug\ClassLibraryBookShop.dll
+H:\Программирование\Лабы\ClassLibrary\ClassLibrary1\obj\Debug\ClassLibraryBookShop.pdb

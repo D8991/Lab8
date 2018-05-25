@@ -1,0 +1,8 @@
+F:\Программирование\Лабы\8Lab\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+F:\Программирование\Лабы\8Lab\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+F:\Программирование\Лабы\8Lab\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+F:\Программирование\Лабы\8Lab\ConsoleApplication3\bin\Debug\ClassLibraryBookShop.dll
+F:\Программирование\Лабы\8Lab\ConsoleApplication3\bin\Debug\ClassLibraryBookShop.pdb
+F:\Программирование\Лабы\8Lab\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+F:\Программирование\Лабы\8Lab\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+F:\Программирование\Лабы\8Lab\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
